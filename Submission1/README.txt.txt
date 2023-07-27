@@ -1,21 +1,19 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/xzyfdhzkdvbp
 
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1X6WLSftlnbN_bW82DCLxL8_u3PPJSyUXhPmaCQAIRq0/edit?usp=sharing
 
 Project title:
-NLP using ANN
+Diabetic Retinopathy Stage Detection
 
 Group Number:
-0
+11
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+Navid Hasan Rafi - 20101585 
+Tajrian Mahbub - 20101325
+Md. Anas Mahmud - 20101149
