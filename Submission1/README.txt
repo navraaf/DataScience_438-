@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/xzyfdhzkdvbp
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/bFNS3CsfA70
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1X6WLSftlnbN_bW82DCLxL8_u3PPJSyUXhPmaCQAIRq0/edit?usp=sharing
